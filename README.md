@@ -1,5 +1,5 @@
 # goprojectdownloader
-A simple Python tool for downloading Go Projects and creating accourding GOPATH
+A simple Python tool for downloading Go Projects and creating according GOPATH
 
 downloadProjects.py
 
